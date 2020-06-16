@@ -17,9 +17,9 @@ def repeats(first):
     return counter
 
 # Optional Bonus 2
-def parse():
+def enable1_parse():
     enable1_file = open("enable1.txt", "r")
     
 
     enable1_file.close()
-parse()
+enable1_parse()
